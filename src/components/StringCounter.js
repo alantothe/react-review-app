@@ -12,7 +12,7 @@ export const StringCounter = () => {
   )
 }
 
-  
+
 export default function MyDefaultFunc() {
     return (
         <h1>Default</h1>
